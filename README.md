@@ -1,7 +1,10 @@
 # 4-leafs-pet   
 ---
 
-## If your looking at my repo please clike the star button! Thank you so much!
+## If your looking at my repo please click the star button! Thank you so much!
+
+
+I'm donating this game to the community for them do play with, pass it around, have some fun togather doing what we love! Do what you like, what ever makes you happy!
    
 <img width="460" alt="image" src="https://user-images.githubusercontent.com/105990331/176726265-7e303944-d833-4511-b239-506f1b40bb51.png">   
    
