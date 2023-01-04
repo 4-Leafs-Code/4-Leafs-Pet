@@ -17,6 +17,8 @@ I'm donating this game to the community for them to play with, pass it around, h
 These are just some ideas I had when I built this and I'm hoping it will get your creative juices flowing. It doesent even have to stay as a virtual pet. I'm courious to see what my contributors make of this and learn from it.
 
 The possibilitys are endless, what do you want to do... Just make a fork, please keep your branch up todate and push often, so you can build off each other. 
+
+You can use the discussions page to talk with other colaborators and brainstorm. Come join in! Tell a friend! Take a load off!
    
 <img width="460" alt="image" src="https://user-images.githubusercontent.com/105990331/176726265-7e303944-d833-4511-b239-506f1b40bb51.png">   
    
