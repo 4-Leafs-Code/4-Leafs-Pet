@@ -1,4 +1,4 @@
-# 4-leafs-pet   
+# 4-Leafs-Pet   
 ---
 
 ## If your looking at my repo please click the star button! Thank you so much!
